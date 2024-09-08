@@ -1,0 +1,25 @@
+body{
+    display:flex;
+    background-color:black;
+    align-items:center;
+    font-family:Arial, Helvetica, sans-serif;
+    margin:0;
+    height: 100vh;
+
+}
+.Calculator{
+width:400px;
+background-color: black;
+padding: 20px;
+border-radius: 20px;
+box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+#display{
+width: 395px;
+height: 70px;
+text-align: right;
+margin-bottom: 15px;
+font-size: 24px;
+border: 2px solid #000;
+border-radius: 5px;
+}
